@@ -1,3 +1,3 @@
 var lukasz = 'lukasz';
-// do kasacji
-var _lukasz = 'Lukasz';
+var branch = "majkel";
+//zmienione w branchy
