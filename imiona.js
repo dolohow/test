@@ -1,3 +1,4 @@
 var lukasz = 'lukasz';
-var branch = "majkel";
+var branch = "branch";
 //zmienione w branchy
+var cyfra = "jeden";
