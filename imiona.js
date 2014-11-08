@@ -1,4 +1,4 @@
 var lukasz = 'lukasz';
 var branch = "branch";
 //zmienione w branchy
-var cyfra = "jeden";
+var cyfra = "dwa";
