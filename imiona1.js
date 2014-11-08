@@ -1,3 +1,3 @@
 var styczen = 'styczen';
 
-var _kasuj;
+var _kasuj='Styczen';
