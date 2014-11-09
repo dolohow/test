@@ -1,4 +1,5 @@
 var lukasz = 'lukasz';
 var branch = "branch";
-//zmienione w branchy
 var cyfra = "dwa";
+//nowim
+var cojes = 'howYouDoin';
